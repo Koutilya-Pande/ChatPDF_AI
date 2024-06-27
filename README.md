@@ -1,8 +1,12 @@
 # ChatPDF_AI
 The MultiPDF Chat App is a Python application designed to facilitate interactive conversations with multiple PDF documents. By leveraging advanced language models, the app allows you to ask questions in natural language and receive relevant responses based on the content within the PDFs. It's important to note that the application will only respond to queries directly related to the information contained in the loaded documents. This project highlights how to leverage a ChromaDB vector store in a Langchain pipeline to create a chat with a PDF application. You can load in a PDF-based document and use it alongside an LLM without fine-tuning.
-![App Screenshot](images/PDF-Chat App.png)
+
+
 
 # Working
+
+![App Screenshot](images/PDF-LangChain.jpg)
+
 
 The application follows these steps to provide responses to your questions:
 
